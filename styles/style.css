@@ -395,3 +395,11 @@ body {
         display: inline;
     }
 }
+
+@media (min-width: 1121px) {
+    .title__side {
+        position: inherit;
+        margin-right: 20px;
+        margin-left: -32px;
+    }
+}
