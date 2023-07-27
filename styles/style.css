@@ -109,6 +109,7 @@ h6 {
 body {
     max-width: 1120px;
     min-width: 320px;
+    margin: auto;
 }
 
 .page-container {
