@@ -160,6 +160,42 @@ body {
     justify-content: center;
 }
 
+.btn-circle__wrap--burger {
+    width: 40px;
+    height: 40px;
+    background-image: url("/public/images/ic-burger.svg");
+}
+
+.btn-circle__wrap--call {
+    width: 40px;
+    height: 40px;
+    background-image: url("/public/images/call.svg");
+}
+
+.btn-circle__wrap--chat {
+    width: 40px;
+    height: 40px;
+    background-image: url("/public/images/chat.svg");
+}
+
+.btn-circle__wrap--profle {
+    width: 40px;
+    height: 40px;
+    background-image: url("/public/images/profile.svg");
+}
+
+.btn-circle__wrap--repair {
+    width: 40px;
+    height: 40px;
+    background-image: url("/public/images/ic-repair.svg");
+}
+
+.btn-circle__wrap--checkstatus {
+    width: 40px;
+    height: 40px;
+    background-image: url("/public/images/ic-checkstatus.svg");
+}
+
 .btn-circle__label {
     text-align: right;
     font-family: TTLakes-Medium;
